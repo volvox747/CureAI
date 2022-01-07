@@ -21,6 +21,11 @@ body .bodycontent {
   padding: 0.5rem 1.2rem 0.5rem 1.2rem;
 }
 
+#try-now-btn{
+  background-color: white;
+  border-radius: 999px;
+}
+
 body .landing-page {
   max-height: 100vh;
   max-width: 100vw;
